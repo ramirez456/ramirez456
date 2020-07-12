@@ -3,13 +3,7 @@
 
 My Skill
 
-- 🔭PHP
-- 🌱 Golang
-- 🌱 Mongo
-- 🔭 GraphQl
-- ⚡ Postgres
-- ⚡ Docker
-- ⚡ :octocat: Git
+- 🔭PHP, 🌱 Golang, 🌱 Mongo, 🔭 GraphQl, ⚡ Postgres, ⚡ Docker, ⚡ :octocat: Git
 
 <!--
 **ramirez456/ramirez456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
